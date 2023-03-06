@@ -1,0 +1,22 @@
+#Contaeúdos ministrados
+- [ ]Introdução a Linguagem de programação C
+    - [ ] Características
+    - [ ] Tipos, Constantes e Variáveis
+    - [ ] Operadores, Expressões e Funções
+- [ ] Funções de Entrada e Saída
+- [ ] Teste e documentação de programas
+- [ ] Estruturas de seleção
+    - [ ] if
+    - [ ] if ... else
+    - [ ] switch ... case
+- [ ] Estruturas de iteração
+    - [ ] while
+    - [ ] do ... while
+    - [ ] for
+- [ ] Funções
+    - [ ] Parâmetros passados por valor
+    - [ ] Recursividade
+    - [ ] Parâmetros passados por referência
+- [ ] Vetores
+    - [ ] Unidimensionais
+    - [ ] Algoritmos de busca e ordenação
