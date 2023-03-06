@@ -4,7 +4,7 @@ que o lado A representa o maior dos 3 lados. A seguir, determine o tipo de triâ
 estes três lados formam, com base nos seguintes casos, sempre escrevendo uma
 mensagem adequada:
 
-• se A ≥ B+C, apresente a mensagem: NAO FORMA TRIANGULO
+• se A ≥ B+C, apresente a mensagem: NÃO FORMA TRIANGULO
 
 • se A2 = B2 + C2, apresente a mensagem: TRIANGULO RETANGULO
 
