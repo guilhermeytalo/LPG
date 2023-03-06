@@ -1,5 +1,5 @@
-#Contaeúdos ministrados
-- [ ]Introdução a Linguagem de programação C
+# Conteúdos ministrados
+- [ ] Introdução a Linguagem de programação C
     - [ ] Características
     - [ ] Tipos, Constantes e Variáveis
     - [ ] Operadores, Expressões e Funções
