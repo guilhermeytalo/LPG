@@ -7,7 +7,7 @@ int main(void)
 
     int par = 0, impar = 0, positivo = 0, negativo = 0;
 
-    for (int i = 0; i < 5; i++)
+    for (int i = 0; i < 6; i++)
     {
         printf("Digite um valor inteiro: \n");
         scanf("%d", &n);
